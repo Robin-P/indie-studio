@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/server.dir/srcs/Server/LaunchServer.cpp.o CMakeFiles/server.dir/srcs/Shared/AI/AI.cpp.o CMakeFiles/server.dir/srcs/Shared/AI/Astar.cpp.o CMakeFiles/server.dir/srcs/Shared/Clock.cpp.o CMakeFiles/server.dir/srcs/Shared/ManageStrings.cpp.o CMakeFiles/server.dir/srcs/Shared/Server.cpp.o CMakeFiles/server.dir/srcs/Shared/Socket.cpp.o  -o server 
